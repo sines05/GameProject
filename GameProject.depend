@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1713236670 source:c:\users\lenovo\desktop\sdl@\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<iostream>
+	<random>
+	<ctime>
+	<vector>
+	<string>
+	<ctime>
+
+1715666960 source:c:\users\lenovo\desktop\game\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<vector>
+	<random>
+	<string>
+	<cmath>
+	<ctime>
+
