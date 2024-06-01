@@ -24,12 +24,18 @@ Cách chơi game:
  ![image](https://github.com/sines05/GameProject/assets/160707657/78d45bac-79c8-476c-ba8b-6ee523452b60)
 
  Tham khảo: 
+ 
  Tài liệu của cô Trần Thị Minh Châu: https://docs.google.com/document/d/1FZ3jTqHxtyZznNWiJmmve0zYu_aSliUqLP2OsMcdehQ/edit#heading=h.mps3zstdeza2
+
  Thư viện SDL: https://wiki.libsdl.org/SDL2/FrontPage
+ 
  AI hỗ trợ sửa một số lỗi: https://chatgpt.com
  Nguồn ảnh: https://www.freepik.com/ 
+ 
  Chỉnh sửa ảnh bằng Paint
+ 
  Font chữ: ThaleahFat
+ 
 
  Chương trình game còn đơn giản và có những lỗi về tối ưu nên em đưa ra mức điểm là: >= 8.
  
