@@ -23,6 +23,8 @@ Cách chơi game:
  
  ![image](https://github.com/sines05/GameProject/assets/160707657/78d45bac-79c8-476c-ba8b-6ee523452b60)
 
+ Game có âm thanh nền và âm thanh khi bung dù, đáp đất.
+
  Tham khảo: 
  
  Tài liệu của cô Trần Thị Minh Châu: https://docs.google.com/document/d/1FZ3jTqHxtyZznNWiJmmve0zYu_aSliUqLP2OsMcdehQ/edit#heading=h.mps3zstdeza2
