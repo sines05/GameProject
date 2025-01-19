@@ -4,7 +4,7 @@ MSSV: 23020641
 
 Chủ đề game: ParachuteDuck
 
-Dựa trên trò chơi Daffy Duck:Parachute Jump, một trò chơi Flash được phát triển khoảng năm 2015 dành cho trẻ em, em đã cố gắng để tái tạo lại trò chơi dựa trên C++ và SDL2.
+Dựa trên trò chơi Daffy Duck:Parachute Jump, một trò chơi Flash được phát triển khoảng năm 2015 dành cho trẻ em, tôi đã cố gắng để tái tạo lại trò chơi dựa trên C++ và SDL2.
 
 Cách chơi game:
  Khi bấm Enter, trò chơi sẽ bắt đầu.
